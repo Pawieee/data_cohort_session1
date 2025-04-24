@@ -1,0 +1,52 @@
+state,abbr,region_code,govt_aid_program,median_income,last_census
+Alabama,CT,8,1,51744,2023
+Alaska,NE,2,1,54209,2023
+Arizona,PA,4,0,45377,2023
+Arkansas,NJ,8,1,66223,2023
+California,ID,2,0,71625,2023
+Colorado,AR,1,1,78799,2023
+Connecticut,AL,9,0,61731,2023
+Delaware,CO,4,0,58849,2023
+District of Columbia,NH,3,1,74448,2023
+Florida,IL,9,1,61083,2023
+Georgia,MI,6,1,58308,2023
+Hawaii,ND,9,0,76333,2023
+Idaho,MN,9,1,71937,2023
+Illinois,VA,8,1,77776,2023
+Indiana,MD,9,0,78016,2023
+Iowa,SC,10,1,63165,2023
+Kansas,LA,4,1,54212,2023
+Kentucky,NJ,5,0,71652,2023
+Louisiana,IA,3,1,51230,2023
+Maine,CT,3,1,61713,2023
+Maryland,AK,6,0,47878,2023
+Massachusetts,IL,10,1,56642,2023
+Michigan,AL,3,1,57770,2023
+Minnesota,AR,2,1,76381,2023
+Mississippi,RI,1,1,59407,2023
+Missouri,IL,3,1,55580,2023
+Montana,KS,3,1,52845,2023
+Nebraska,FL,10,1,63611,2023
+Nevada,NV,7,1,58213,2023
+New Hampshire,WV,7,0,65155,2023
+New Jersey,MA,5,0,62945,2023
+New Mexico,SD,9,0,72097,2023
+New York,NY,4,0,45100,2023
+North Carolina,TN,2,0,77055,2023
+North Dakota,NM,3,0,51017,2023
+Ohio,IL,10,0,51300,2023
+Oklahoma,PA,5,1,49431,2023
+Oregon,SC,3,0,67380,2023
+Pennsylvania,OR,6,0,52723,2023
+Rhode Island,KY,6,1,58903,2023
+South Carolina,NJ,6,1,45189,2023
+South Dakota,WI,6,1,45080,2023
+Tennessee,AL,2,0,66373,2023
+Texas,NH,10,0,63820,2023
+Utah,NJ,10,0,66662,2023
+Vermont,DC,1,1,60306,2023
+Virginia,TN,2,1,59893,2023
+Washington,NM,1,1,58705,2023
+West Virginia,AR,6,1,68160,2023
+Wisconsin,UT,9,1,48300,2023
+Wyoming,VT,8,0,50716,2023

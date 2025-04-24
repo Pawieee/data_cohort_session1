@@ -1,0 +1,52 @@
+state,housing_units,shelters,vacancy_rate,rent_median,overcrowding_flag
+Alabama,4200921,403,7.90%,$2100,Yes
+Alaska,775685,435,9.40%,$1820,No
+Arizona,4932452,129,3.90%,$1369,Yes
+Arkansas,2312865,314,6.80%,$1890,No
+California,1924867,295,8.40%,$2342,Yes
+Colorado,2288395,447,4.90%,$1790,Yes
+Connecticut,1392371,325,3.80%,$1890,No
+Delaware,1237531,104,3.40%,$1420,Yes
+District of Columbia,3862801,342,7.00%,$1590,Yes
+Florida,303912,288,8.60%,$1420,No
+Georgia,2983696,369,3.30%,$1569,No
+Hawaii,3479506,243,5.60%,$2115,No
+Idaho,2668835,293,6.60%,$1790,No
+Illinois,4037223,325,5.50%,$1923,No
+Indiana,2213051,558,3.10%,$1127,Yes
+Iowa,3004142,386,8.20%,$1248,Yes
+Kansas,4020172,119,3.20%,$2037,Yes
+Kentucky,4206693,330,8.40%,$1901,Yes
+Louisiana,878652,278,5.00%,$2014,Yes
+Maine,1584224,201,9.00%,$2218,Yes
+Maryland,3224237,536,8.60%,$1105,No
+Massachusetts,1894322,350,6.00%,$1434,No
+Michigan,3998591,457,3.30%,$1355,Yes
+Minnesota,1520731,558,5.40%,$1384,No
+Mississippi,1994996,377,5.30%,$1441,Yes
+Missouri,2668095,170,9.50%,$1135,No
+Montana,1071960,277,3.50%,$1846,No
+Nebraska,1695869,563,4.80%,$1456,No
+Nevada,3815949,518,7.90%,$1123,No
+New Hampshire,1462158,379,5.70%,$2323,No
+New Jersey,1916862,238,7.60%,$2375,No
+New Mexico,1410939,350,4.70%,$1412,No
+New York,1992202,392,2.80%,$2337,Yes
+North Carolina,3087514,406,2.40%,$1790,No
+North Dakota,999571,402,2.10%,$2120,No
+Ohio,3925772,550,4.40%,$1985,Yes
+Oklahoma,435868,501,6.30%,$2108,No
+Oregon,2195659,183,4.00%,$2339,No
+Pennsylvania,4458741,133,7.90%,$1505,No
+Rhode Island,4014208,104,5.90%,$1675,Yes
+South Carolina,2457089,565,7.90%,$1241,No
+South Dakota,1654100,125,9.40%,$2163,No
+Tennessee,4518478,559,5.70%,$2037,Yes
+Texas,3893713,269,4.70%,$2045,Yes
+Utah,583980,320,3.40%,$1790,Yes
+Vermont,1127310,259,7.00%,$929,No
+Virginia,2805107,575,7.80%,$2037,Yes
+Washington,3934440,97,2.70%,$1790,No
+West Virginia,2205400,104,9.20%,$1897,No
+Wisconsin,2518988,424,6.40%,$2360,Yes
+Wyoming,3158672,599,7.50%,$2800,No
