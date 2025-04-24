@@ -14,7 +14,7 @@ First, ensure you have Python installed on your system. You can download Python 
 
 ### Step 2: Fork the Repository
 
-Fork the repository to your own GitHub account by visiting [complete-pandas-tutorial](https://github.com/Pawieee/data_cohort_session1) and clicking the "Fork" button in the top-right corner.
+Fork the repository to your own GitHub account by visiting [data_cohort_session1](https://github.com/Pawieee/data_cohort_session1) and clicking the "Fork" button in the top-right corner.
 
 ### Step 3: Clone the Forked Repository
 
